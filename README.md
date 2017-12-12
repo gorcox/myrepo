@@ -1,6 +1,6 @@
 <h1><b>SAS Viya Infrastructure Resource Kit (VIRK) - Home Directory Playbook</b></h1>
 
-<h1>Introduction
+<h2>Introduction</h2>
 
 This playbook verifies and possibly performs the changes needed for home directory creation by SAS Authentication
 This playbook is for SAS 9 or Viya 3.3
